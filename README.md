@@ -60,7 +60,11 @@ For future research, incorporating additional data such as earnings reports, pro
 
 ## References
 [1] [Huge Stock Market Dataset](www.kaggle.com/datasets/borismarjanovic/price-volume-data-for-all-us-stocks-etfs)
+
 [2] [Decomposition Models](https://online.stat.psu.edu/stat510/lesson/5/5.1/0)
+
 [3] [Exponentially Weighted Moving Average](https://www.investopedia.com/articles/07/ewma.asp)
+
 [4] [Simple Moving Average Crossovers](https://www.schwab.com/learn/story/understanding-simple-moving-average-crossovers)
+
 [5] [MACD](https://www.fidelity.com/learning-center/trading-investing/technical-analysis/technical-indicator-guide/macd)
