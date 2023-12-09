@@ -34,6 +34,7 @@ The results from the analysis were insightful and, at times, surprising, offerin
 
 **Question 1's results:**
 - The trend analysis showed a long-term upward trajectory for AAPL, with a notable increase in price movement starting in the early 2000s. Residuals increased in parallel, indicating heightened periods of volatility.
+[Time Series Decomposition](graph/quesiton1.png)
 
 **Question 2's results:**
 - The MACD analysis revealed frequent and pronounced crossovers in the recent decade, reflecting periods of strong momentum. This could help investors time their market entries and exits.
