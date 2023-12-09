@@ -38,15 +38,19 @@ The results from the analysis were insightful and, at times, surprising, offerin
 
 **Question 2's results:**
 - The MACD analysis revealed frequent and pronounced crossovers in the recent decade, reflecting periods of strong momentum. This could help investors time their market entries and exits.
+[Moving Average Convergence Divergence (MACD)](graph/question2.png)
 
 **Question 3's results:**
 - Volatility analysis using EWMA highlighted several periods of high volatility, particularly around the early 2000s and the 2008 financial crisis, after which volatility showed a general declining trend.
+[Volatility Modeling with EWMA](graph/question3.png)
 
 **Question 4's results:**
 - The SMA Crossover Strategy visualization indicated that while there were several accurate signals for market entry and exit points, the strategy also had limitations due to the lagging nature of SMAs.
+[Simple Moving Average Crossover Strategy](graph/question4.png)
 
 **Question 5's results:**
 - Volume analysis identified several days with trading volumes significantly above the average, which could be linked to major company events, product announcements, or other market-moving news.
+[Volume Analysis - Identifying Anomalous Trading Days](graph/question5.png)
 
 ## Discussion
 ### What do these results indicate about AAPL's stock?
