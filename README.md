@@ -21,7 +21,7 @@ The data for this analysis was sourced from Kaggle, **"Huge Stock Market Dataset
 ## Methodology
 **Pandas** was used to manipulate and analyze the time-series data, while Matplotlib was used to visualize price movements and trading signals.
 
-Tools:
+**Tools:**
 
 The analysis of AAPL's stock performance was conducted using a variety of tools tailored for data analysis, visualization, and machine learning. These included:
 
@@ -29,7 +29,7 @@ The analysis of AAPL's stock performance was conducted using a variety of tools 
 - Matplotlib for data visualization to illustrate stock trends, volatility, and trading signals.
 - Jupyter Notebooks as an interactive computational environment where the analysis was performed.
 
-Data Analysis Methods:
+**Data Analysis Methods:**
 
 The analysis primarily focused on time-series data, employing methods such as:
 
