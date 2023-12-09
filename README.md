@@ -43,7 +43,7 @@ The analysis primarily focused on time-series data, employing methods such as:
 
 1. How has AAPL's stock price *trend* developed over time, and what does the *residual analysis* reveal about anomalies in its price movements?
 2. What does the *Moving Average Convergence Divergence (MACD)* indicate about AAPL's price momentum and potential buy/sell signals?
-3. How has AAPL's stock price volatility, as estimated by the Exponentially *Weighted Moving Average (EWMA)*, changed over time?
+3. How has AAPL's stock price volatility, as estimated by the *Exponentially Weighted Moving Average (EWMA)*, changed over time?
 4. How effective is the *Simple Moving Average (SMA)* Crossover Strategy in identifying potential trading signals for AAPL?
 5. Can we identify *significant* trading days for AAPL with unusually high volume, and what might these indicate about market behavior?
 
